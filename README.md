@@ -17,8 +17,8 @@ How to use in Open Broadcaster Software (OBS Studio):
 You are now ready to stream with the overlay.
 
 As the streamed set(s) progress, you can update the overlay by changing
-- player1NameText:before (the name of player 1)
-- player2NameText:before (the name of player 2)
+- #player1NameText:before (the name of player 1)
+- #player2NameText:before (the name of player 2)
 - #roundBoxText:before (the current round)
 
 at the bottom of styles.css
