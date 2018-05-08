@@ -3,11 +3,16 @@ Step 1 of a project to create a dynamically editable overlay for Super Smash Bro
 
 How to use in Open Broadcaster Software (OBS Studio):
 - Add a new Browser source to your scene.
-![alt img](https://imgur.com/Pewt3lD)
+
+![alt img](https://i.imgur.com/Pewt3lD.png)
 - Check the Local file checkbox and click Browse.
+
+![alt img](https://i.imgur.com/uYsFNKt.png)
 - Select gameOverlay.html of this project.
 - Set the resolution and framerate. (1920 x 1080 at 60 frames per second reccommended)
 - Check Refresh browser when scene becomes active checkbox.
+
+![alt img](https://i.imgur.com/o7NIol0.png)
 
 You are now ready to stream with the overlay.
 
