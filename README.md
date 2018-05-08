@@ -6,6 +6,7 @@ How to use in Open Broadcaster Software (OBS Studio):
 - Check the Local file checkmark and click Browse.
 - Select gameOverlay.html of this project.
 - Set the resolution and framerate (1920 x 1080 at 60 frames per second reccommended)
+
 You are now ready to stream with the overlay.
 
 As the streamed set(s) progress, you can update the overlay by changing
