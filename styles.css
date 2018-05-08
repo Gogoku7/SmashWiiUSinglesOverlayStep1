@@ -22,6 +22,7 @@ body
 {
 	width: 50%;
 	height: 80px;
+	overflow: hidden;
 }
 
 #player1
