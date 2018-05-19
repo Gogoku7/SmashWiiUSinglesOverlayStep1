@@ -5,9 +5,11 @@ Step 1 of a project to create a dynamically editable overlay for Super Smash Bro
 - Add a new Browser source to your scene.
 
 ![alt img](https://i.imgur.com/Pewt3lD.png)
+
 - Check the Local file checkbox and click Browse.
 
 ![alt img](https://i.imgur.com/uYsFNKt.png)
+
 - Select gameOverlay.html of this project.
 - Set the resolution and framerate. (1920 x 1080 at 60 frames per second recommended)
 - Check Refresh browser when scene becomes active checkbox.
